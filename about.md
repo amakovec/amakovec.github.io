@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 Hardware Engineer in Cleveland, OH
 
 ## Experience
@@ -19,9 +17,7 @@ Hardware Engineer in Cleveland, OH
 
 ## Education
 
-### The Ohio State University
-
-Bachelor of Science in Electrical and Computer Engineering, Electrical Engineering Program of Study (Class of 2019)
+Bachelor of Science in Electrical and Computer Engineering, Electrical Engineering Program of Study (The Ohio State University, Class of 2019)
 
 ## Interests
 
@@ -31,7 +27,7 @@ Bachelor of Science in Electrical and Computer Engineering, Electrical Engineeri
 
 ## Contact Me
 
-* GitHub: amakovec
-* LinkedIn: amakovec
-* Twitter: @andymakovec
-* Email: andymakovec@gmail.com
+* GitHub: [amakovec](https://github.com/amakovec)
+* LinkedIn: [amakovec](https://www.linkedin.com/in/amakovec/)
+* Twitter: [@andymakovec](https://twitter.com/andymakovec)
+* Email: [andymakovec@gmail.com](mailto:andymakovec@gmail.com)
