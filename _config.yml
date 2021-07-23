@@ -6,20 +6,21 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Andrew Makovec
-email: andrewmakovec@gmail.com
+title: Andy Makovec
+email: andymakovec@gmail.com
 description: >
-  Electrical Engineer at The Ohio State University
+  Hardware Engineer in Cleveland, OH
 logo: "/assets/images/logo.jpg"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://amakovec.com" # the base hostname & protocol for your site
-paginate:	5 # The number of posts to show per page on your homepage
+baseurl: ""                             # the subpath of your site, e.g. /blog
+url: "http://amakovec.com"              # the base hostname & protocol for your site
+paginate: 5                             # The number of posts to show per page on your homepage
 
-name: 'Andrew Makovec'
+# Bio settings
+name: 'Andy Makovec'
 bio: >
-  Electrical Engineer at The Ohio State University
+  Hardware Engineer in Cleveland, OH
 author_image: "/assets/images/author.jpg"
-#twitter_username: jekyllrb
+twitter_username: andymakovec
 github_username:  amakovec
 
 # Google Analytics
@@ -27,9 +28,7 @@ analytics_id: "UA-127706275-1"
 
 # Build settings
 markdown: kramdown
-
 kramdown:
   parse_block_html: true
-
 gems:
   - jekyll-paginate
