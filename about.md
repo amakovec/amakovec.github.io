@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hardware Engineer in Cleveland, OH
+<link rel="stylesheet" href="/about.css">
+
+<div class="image-cropper">
+    <img align="right" class="profile-pic" alt="Andy Makovec's profile picture" src="/assets/images/author.jpg">
+</div>
 
 ## Experience
 

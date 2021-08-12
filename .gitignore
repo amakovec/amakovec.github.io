@@ -1,12 +1,11 @@
-
-# Created by https://www.gitignore.io/api/jekyll
-
-### Jekyll ###
-_site/
-.sass-cache/
-.jekyll-cache/
+_site
+.DS_Store
+.jekyll
 .jekyll-metadata
+.jekyll-cache
+.bundle
+.sass-cache
+Gemfile
 Gemfile.lock
-
-
-# End of https://www.gitignore.io/api/jekyll
+node_modules
+package.json
