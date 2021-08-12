@@ -37,7 +37,7 @@ Hi!  I'm a hardware engineer with extensive experience in designing development 
 
 * Performed EMC Testing of Ethernet-enabled embedded systems products to qualify conformance to the IEC 61000-6-4 standard, including configuring PLCs to automate the testing process.
 * Oversaw the hardware-related aspects of a quality control revision of a legacy embedded systems product including DMI review, PCB DFM process, prototype/pilot runs, and last-time buy considerations.
-* Investigated viability of potential cost savings in new Ethernet ICs by testing for conformance to IEEE 802.3.
+* Investigated viability of potential cost savings in new Ethernet PHYs by testing for conformance to IEEE 802.3.
 * Designed and analyzed possible PCB layouts to solve space constraint issues in a new product under development.
 * Mentored a team of 3 engineering interns on a long-term embedded systems design project.
 
