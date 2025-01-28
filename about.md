@@ -92,6 +92,10 @@ Bachelor of Science in Electrical and Computer Engineering, Electrical Engineeri
 * Wireless design
     * Microwave and antenna design coursework
     * Amateur Radio Extra License (Callsign KE8KNA)
+* Fishing (esp. surf fishing & crabbing)
+* Biking
+* Golfing (35 hcp, not great!)
+* Working on my ’91 Miata
 
 ## Contact Me
 
