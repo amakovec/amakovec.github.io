@@ -72,10 +72,14 @@ Hi!  I'm a hardware engineer with extensive experience in designing development 
 
 ## Skills
 
-* **Design Capture**: Mentor Graphics proficiency (Xpedition design capture flow, HyperLynx SI/PI modeling, library management), KiCAD competency (design capture and library management)
-* **Programming Languages**: Python proficiency, C/C++ and Java familiarity
-* **Version Control**: Git, GitHub, and GitLab competency
-* **Other Skills**: Linux, Jira, MATLAB, SAP ECC, Rockwell Software (Studio 5000, RSLinx, FactoryTalk)
+* **Hardware Design**: High speed (Ethernet 1000BASE-T, 100BASE-TX, and 1000BASE-T1), brushed and brushless/3-phase DC motor drivers, high-side FET drivers / eFuses, op-amp / in-amp based amplifiers, microcontrollers (pinout assignment, layout, and firmware), grounding analysis, power supply design (buck, boost, buck-boost, single and multiphase)
+* **Embedded Firmware (C)**: Communication (Ethernet, USB, SPI, I2C, UART, CAN), interrupts (timers, inputs, input capture), RTOS (Mbed OS), STM32 HAL and LL, Makefile, CMake
+* **Design Capture**: Altium Designer proficiency (schematic, layout, rules, constraint manager, DRC, part management, Draftsman, and Altium 365), Mentor Graphics proficiency (Xpedition design capture flow, HyperLynx SI/PI modeling, library management), KiCAD competency (design capture and library management), HFSS (EMag FEM) and FEKO (antenna design) familiarity.
+* **Programming Languages**: Python proficiency, Embedded C competency, Rust familiarity.
+* **Version Control**: Git, GitHub, GitLab, and SVN competency.
+* **Reliability Testing**: LTOE, HTOE, HTHE, PTCE + related failure modes
+* **Standards (familiarity, not certification)**: IEC 61000-6-4, ISO 26262, IEEE 802.3
+* **Other Skills**: LTSpice, Linux, CATIA V5/V6, 3DExperience, MATLAB/Octave, SAP ECC, Rockwell Software (Studio 5000, RSLinx, FactoryTalk), CMake, Ansible, Mbed OS, Bash, Jira, GitHub Actions
 
 ## Education
 
